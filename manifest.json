@@ -1,0 +1,19 @@
+{
+  "name": "Près de chez Moi",
+  "short_name": "Près de chez Moi",
+  "description": "Trouvez des chambres, boutiques, appartements et résidences au Bénin.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f6ef",
+  "theme_color": "#123f35",
+  "lang": "fr-BJ",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
